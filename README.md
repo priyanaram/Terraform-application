@@ -1,2 +1,1 @@
-# Terraform-application
-Terraform outputs for job application
+This repository contains Terraform outputs for my application to the Senior DevOps Engineer position at Leap.
